@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837788887434",
+    "project_id": "fir-course-bfa36",
+    "storage_bucket": "fir-course-bfa36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837788887434:android:90b7858dc7cbf259860073",
+        "android_client_info": {
+          "package_name": "com.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837788887434-t7jvr69mm0am7ca5v1cvprrf466i62om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNflwPwKuFd8PfF3dq6IHEJAXdSt2n_L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837788887434-t7jvr69mm0am7ca5v1cvprrf466i62om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
